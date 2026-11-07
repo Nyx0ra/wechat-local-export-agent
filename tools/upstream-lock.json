@@ -1,0 +1,11 @@
+{
+  "project": "https://github.com/BlueMatthew/WechatExporter",
+  "release": "https://github.com/BlueMatthew/WechatExporter/releases/tag/v1.9.5.13",
+  "version": "1.9.5.13",
+  "platform": "Windows x64",
+  "archive_url": "https://github.com/BlueMatthew/WechatExporter/releases/download/v1.9.5.13/v1.9.5.13-x64-win-cmd.zip",
+  "archive_sha256": "a086b3a42cd9296160bdc08141846ddb4b632fc15a479aeb4d2d53b4c2573fac",
+  "executable_sha256": "8957fea01fea4509b90eeb3440d7d78c79f239e1ec944513c9f10144e26a200f",
+  "license": "GPL-2.0; additional dependencies have their own notices",
+  "hash_provenance": "Locally measured original release archive; this is an integrity pin, not a publisher signature"
+}
